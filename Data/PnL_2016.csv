@@ -1,90 +1,85 @@
-Calendar_Year;Calendar_Month;Account_LvL1_Text;Account_LvL1_Key;Amount
-2016;January;COGS (excl. Mfg. Ove;LCAMPR.2000;-665,56
-2016;January;Distribution Cost;LCAMPR.3000;-92,82
-2016;January;Gross Revenue;LCAMPR.1100;3915,57
-2016;January;Marketing Costs;LCAMPR.4000;-128,49
-2016;January;Operating Expenses;LCAMPR.5000;-1003,95
-2016;January;Sales Discounts;LCAMPR.1400;-92,37
-2016;January;Trade Contributions;LCAMPR.1700;-176,17
-2016;February;COGS (excl. Mfg. Ove;LCAMPR.2000;-414,34
-2016;February;Distribution Cost;LCAMPR.3000;-88,35
-2016;February;Financial & secondar;LCAMPR.8100;0
-2016;February;Gross Revenue;LCAMPR.1100;3038,06
-2016;February;Marketing Costs;LCAMPR.4000;-179,16
-2016;February;Operating Expenses;LCAMPR.5000;-1091,29
-2016;February;Sales Discounts;LCAMPR.1400;-85,67
-2016;February;Trade Contributions;LCAMPR.1700;-151,27
-2016;March;COGS (excl. Mfg. Ove;LCAMPR.2000;-352,52
-2016;March;Distribution Cost;LCAMPR.3000;-83,26
-2016;March;Financial & secondar;LCAMPR.8100;0
-2016;March;Gross Revenue;LCAMPR.1100;2727,5
-2016;March;Marketing Costs;LCAMPR.4000;-220,41
-2016;March;Operating Expenses;LCAMPR.5000;-1045,77
-2016;March;Sales Discounts;LCAMPR.1400;-91,59
-2016;March;Trade Contributions;LCAMPR.1700;-141,16
-2016;April;COGS (excl. Mfg. Ove;LCAMPR.2000;-267,49
-2016;April;Distribution Cost;LCAMPR.3000;-70,69
-2016;April;Financial & secondar;LCAMPR.8100;-0,39
-2016;April;Gross Revenue;LCAMPR.1100;2282,99
-2016;April;Marketing Costs;LCAMPR.4000;-187,22
-2016;April;Operating Expenses;LCAMPR.5000;-1253,01
-2016;April;Sales Discounts;LCAMPR.1400;-66,83
-2016;April;Trade Contributions;LCAMPR.1700;-100,48
-2016;May;COGS (excl. Mfg. Ove;LCAMPR.2000;-291,3
-2016;May;Distribution Cost;LCAMPR.3000;-78,53
-2016;May;Gross Revenue;LCAMPR.1100;2473,33
-2016;May;Marketing Costs;LCAMPR.4000;-208,1
-2016;May;Operating Expenses;LCAMPR.5000;-1220,24
-2016;May;Sales Discounts;LCAMPR.1400;-75,47
-2016;May;Trade Contributions;LCAMPR.1700;-135,52
-2016;June;COGS (excl. Mfg. Ove;LCAMPR.2000;-207,83
-2016;June;Distribution Cost;LCAMPR.3000;-76,34
-2016;June;Gross Revenue;LCAMPR.1100;2184
-2016;June;Marketing Costs;LCAMPR.4000;-199,94
-2016;June;Operating Expenses;LCAMPR.5000;-1227,41
-2016;June;Sales Discounts;LCAMPR.1400;-70,87
-2016;June;Trade Contributions;LCAMPR.1700;-49,55
-2016;July;COGS (excl. Mfg. Ove;LCAMPR.2000;-400,03
-2016;July;Distribution Cost;LCAMPR.3000;-78,67
-2016;July;Financial & secondar;LCAMPR.8100;0
-2016;July;Gross Revenue;LCAMPR.1100;2830,08
-2016;July;Marketing Costs;LCAMPR.4000;-195,2637154
-2016;July;Operating Expenses;LCAMPR.5000;-1074,237468
-2016;July;Sales Discounts;LCAMPR.1400;-85,29811034
-2016;July;Trade Contributions;LCAMPR.1700;-145,6246036
-2016;August;COGS (excl. Mfg. Ove;LCAMPR.2000;-412,9793289
-2016;August;Distribution Cost;LCAMPR.3000;-86,65926016
-2016;August;Financial & secondar;LCAMPR.8100;-0,001809331
-2016;August;Gross Revenue;LCAMPR.1100;3065,600672
-2016;August;Marketing Costs;LCAMPR.4000;-209,1151546
-2016;August;Operating Expenses;LCAMPR.5000;-1143,403622
-2016;August;Sales Discounts;LCAMPR.1400;-86,66019899
-2016;August;Trade Contributions;LCAMPR.1700;-156,8559444
-2016;September;COGS (excl. Mfg. Ove;LCAMPR.2000;-768,4579311
-2016;September;Distribution Cost;LCAMPR.3000;-101,0485323
-2016;September;Gross Revenue;LCAMPR.1100;4367,378291
-2016;September;Marketing Costs;LCAMPR.4000;-257,1820986
-2016;September;Operating Expenses;LCAMPR.5000;-1228,75593
-2016;September;Sales Discounts;LCAMPR.1400;-110,6863656
-2016;September;Trade Contributions;LCAMPR.1700;-252,4280303
-2016;October;COGS (excl. Mfg. Ove;LCAMPR.2000;-939,5078646
-2016;October;Distribution Cost;LCAMPR.3000;-120,200959
-2016;October;Gross Revenue;LCAMPR.1100;5242,85423
-2016;October;Marketing Costs;LCAMPR.4000;-386,9035577
-2016;October;Operating Expenses;LCAMPR.5000;-1105,778438
-2016;October;Sales Discounts;LCAMPR.1400;-138,1311245
-2016;October;Trade Contributions;LCAMPR.1700;-311,1446799
-2016;November;COGS (excl. Mfg. Ove;LCAMPR.2000;-981,2969644
-2016;November;Distribution Cost;LCAMPR.3000;-115,0310954
-2016;November;Gross Revenue;LCAMPR.1100;5124,471023
-2016;November;Marketing Costs;LCAMPR.4000;-405,8068346
-2016;November;Operating Expenses;LCAMPR.5000;-1147,707353
-2016;November;Sales Discounts;LCAMPR.1400;-145,825128
-2016;November;Trade Contributions;LCAMPR.1700;-318,9047494
-2016;December;COGS (excl. Mfg. Ove;LCAMPR.2000;-712,3553929
-2016;December;Distribution Cost;LCAMPR.3000;-109,5217313
-2016;December;Gross Revenue;LCAMPR.1100;3544,092332
-2016;December;Marketing Costs;LCAMPR.4000;-557,0268732
-2016;December;Operating Expenses;LCAMPR.5000;-1289,556916
-2016;December;Sales Discounts;LCAMPR.1400;-128,728401
-2016;December;Trade Contributions;LCAMPR.1700;-473,4054511
+Calendar_Year;Calendar_Month;Account_Text;Account_Key;Amount
+2016;January;COGS (excl. Mfg. Ove;2000;-665,56
+2016;January;Distribution Cost;3000;-92,82
+2016;January;Gross Revenue;1100;3915,57
+2016;January;Marketing Costs;4000;-128,49
+2016;January;Operating Expenses;5000;-1003,95
+2016;January;Sales Discounts;1400;-92,37
+2016;January;Trade Contributions;1700;-176,17
+2016;February;COGS (excl. Mfg. Ove;2000;-414,34
+2016;February;Distribution Cost;3000;-88,35
+2016;February;Gross Revenue;1100;3038,06
+2016;February;Marketing Costs;4000;-179,16
+2016;February;Operating Expenses;5000;-1091,29
+2016;February;Sales Discounts;1400;-85,67
+2016;February;Trade Contributions;1700;-151,27
+2016;March;COGS (excl. Mfg. Ove;2000;-352,52
+2016;March;Distribution Cost;3000;-83,26
+2016;March;Gross Revenue;1100;2727,5
+2016;March;Marketing Costs;4000;-220,41
+2016;March;Operating Expenses;5000;-1045,77
+2016;March;Sales Discounts;1400;-91,59
+2016;March;Trade Contributions;1700;-141,16
+2016;April;COGS (excl. Mfg. Ove;2000;-267,49
+2016;April;Distribution Cost;3000;-70,69
+2016;April;Gross Revenue;1100;2282,99
+2016;April;Marketing Costs;4000;-187,22
+2016;April;Operating Expenses;5000;-1253,01
+2016;April;Sales Discounts;1400;-66,83
+2016;April;Trade Contributions;1700;-100,48
+2016;May;COGS (excl. Mfg. Ove;2000;-291,3
+2016;May;Distribution Cost;3000;-78,53
+2016;May;Gross Revenue;1100;2473,33
+2016;May;Marketing Costs;4000;-208,1
+2016;May;Operating Expenses;5000;-1220,24
+2016;May;Sales Discounts;1400;-75,47
+2016;May;Trade Contributions;1700;-135,52
+2016;June;COGS (excl. Mfg. Ove;2000;-207,83
+2016;June;Distribution Cost;3000;-76,34
+2016;June;Gross Revenue;1100;2184
+2016;June;Marketing Costs;4000;-199,94
+2016;June;Operating Expenses;5000;-1227,41
+2016;June;Sales Discounts;1400;-70,87
+2016;June;Trade Contributions;1700;-49,55
+2016;July;COGS (excl. Mfg. Ove;2000;-400,03
+2016;July;Distribution Cost;3000;-78,67
+2016;July;Gross Revenue;1100;2830,08
+2016;July;Marketing Costs;4000;-195,2637154
+2016;July;Operating Expenses;5000;-1074,237468
+2016;July;Sales Discounts;1400;-85,29811034
+2016;July;Trade Contributions;1700;-145,6246036
+2016;August;COGS (excl. Mfg. Ove;2000;-412,9793289
+2016;August;Distribution Cost;3000;-86,65926016
+2016;August;Gross Revenue;1100;3065,600672
+2016;August;Marketing Costs;4000;-209,1151546
+2016;August;Operating Expenses;5000;-1143,403622
+2016;August;Sales Discounts;1400;-86,66019899
+2016;August;Trade Contributions;1700;-156,8559444
+2016;September;COGS (excl. Mfg. Ove;2000;-768,4579311
+2016;September;Distribution Cost;3000;-101,0485323
+2016;September;Gross Revenue;1100;4367,378291
+2016;September;Marketing Costs;4000;-257,1820986
+2016;September;Operating Expenses;5000;-1228,75593
+2016;September;Sales Discounts;1400;-110,6863656
+2016;September;Trade Contributions;1700;-252,4280303
+2016;October;COGS (excl. Mfg. Ove;2000;-939,5078646
+2016;October;Distribution Cost;3000;-120,200959
+2016;October;Gross Revenue;1100;5242,85423
+2016;October;Marketing Costs;4000;-386,9035577
+2016;October;Operating Expenses;5000;-1105,778438
+2016;October;Sales Discounts;1400;-138,1311245
+2016;October;Trade Contributions;1700;-311,1446799
+2016;November;COGS (excl. Mfg. Ove;2000;-981,2969644
+2016;November;Distribution Cost;3000;-115,0310954
+2016;November;Gross Revenue;1100;5124,471023
+2016;November;Marketing Costs;4000;-405,8068346
+2016;November;Operating Expenses;5000;-1147,707353
+2016;November;Sales Discounts;1400;-145,825128
+2016;November;Trade Contributions;1700;-318,9047494
+2016;December;COGS (excl. Mfg. Ove;2000;-712,3553929
+2016;December;Distribution Cost;3000;-109,5217313
+2016;December;Gross Revenue;1100;3544,092332
+2016;December;Marketing Costs;4000;-557,0268732
+2016;December;Operating Expenses;5000;-1289,556916
+2016;December;Sales Discounts;1400;-128,728401
+2016;December;Trade Contributions;1700;-473,4054511

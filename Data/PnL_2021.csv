@@ -1,85 +1,85 @@
-Calendar_Year;Calendar_Month;Account_LvL1_Text;Account_LvL1_Key;Amount
-2021;January;COGS (excl. Mfg. Ove;LCAMPR.2000;-877,92
-2021;January;Distribution Cost;LCAMPR.3000;-177,4
-2021;January;Gross Revenue;LCAMPR.1100;5495,24
-2021;January;Marketing Costs;LCAMPR.4000;-133,79
-2021;January;Operating Expenses;LCAMPR.5000;-1232,61
-2021;January;Sales Discounts;LCAMPR.1400;-161,09
-2021;January;Trade Contributions;LCAMPR.1700;-284,82
-2021;February;COGS (excl. Mfg. Ove;LCAMPR.2000;-638,34
-2021;February;Distribution Cost;LCAMPR.3000;-160,03
-2021;February;Gross Revenue;LCAMPR.1100;3904,96
-2021;February;Marketing Costs;LCAMPR.4000;-239,38
-2021;February;Operating Expenses;LCAMPR.5000;-1358,84
-2021;February;Sales Discounts;LCAMPR.1400;-108,7
-2021;February;Trade Contributions;LCAMPR.1700;-234,77
-2021;March;COGS (excl. Mfg. Ove;LCAMPR.2000;-649,6
-2021;March;Distribution Cost;LCAMPR.3000;-177,5
-2021;March;Gross Revenue;LCAMPR.1100;4168,97
-2021;March;Marketing Costs;LCAMPR.4000;-311,05
-2021;March;Operating Expenses;LCAMPR.5000;-1518,56
-2021;March;Sales Discounts;LCAMPR.1400;-113,04
-2021;March;Trade Contributions;LCAMPR.1700;-230,28
-2021;April;COGS (excl. Mfg. Ove;LCAMPR.2000;-496,72
-2021;April;Distribution Cost;LCAMPR.3000;-157,92
-2021;April;Gross Revenue;LCAMPR.1100;3572,64
-2021;April;Marketing Costs;LCAMPR.4000;-259,85
-2021;April;Operating Expenses;LCAMPR.5000;-1486,67
-2021;April;Sales Discounts;LCAMPR.1400;-118,21
-2021;April;Trade Contributions;LCAMPR.1700;-194,15
-2021;May;COGS (excl. Mfg. Ove;LCAMPR.2000;-514,6
-2021;May;Distribution Cost;LCAMPR.3000;-209,43
-2021;May;Gross Revenue;LCAMPR.1100;4072,66
-2021;May;Marketing Costs;LCAMPR.4000;-293,51
-2021;May;Operating Expenses;LCAMPR.5000;-1539,7
-2021;May;Sales Discounts;LCAMPR.1400;-137,23
-2021;May;Trade Contributions;LCAMPR.1700;-260,44
-2021;June;COGS (excl. Mfg. Ove;LCAMPR.2000;-437,3
-2021;June;Distribution Cost;LCAMPR.3000;-173,73
-2021;June;Gross Revenue;LCAMPR.1100;3556,18
-2021;June;Marketing Costs;LCAMPR.4000;-318,41
-2021;June;Operating Expenses;LCAMPR.5000;-1313,65
-2021;June;Sales Discounts;LCAMPR.1400;-107,4
-2021;June;Trade Contributions;LCAMPR.1700;-200,67
-2021;July;COGS (excl. Mfg. Ove;LCAMPR.2000;-751,42
-2021;July;Distribution Cost;LCAMPR.3000;-145,63
-2021;July;Gross Revenue;LCAMPR.1100;4332,52
-2021;July;Marketing Costs;LCAMPR.4000;-308,61
-2021;July;Operating Expenses;LCAMPR.5000;-1478,4
-2021;July;Sales Discounts;LCAMPR.1400;-109,48
-2021;July;Trade Contributions;LCAMPR.1700;-244,82
-2021;August;COGS (excl. Mfg. Ove;LCAMPR.2000;-791,4117278
-2021;August;Distribution Cost;LCAMPR.3000;-196,2057915
-2021;August;Gross Revenue;LCAMPR.1100;4814,571147
-2021;August;Marketing Costs;LCAMPR.4000;-390,2469432
-2021;August;Operating Expenses;LCAMPR.5000;-1610,665789
-2021;August;Sales Discounts;LCAMPR.1400;-139,8777656
-2021;August;Trade Contributions;LCAMPR.1700;-236,6656864
-2021;September;COGS (excl. Mfg. Ove;LCAMPR.2000;-943,6337144
-2021;September;Distribution Cost;LCAMPR.3000;-206,2478579
-2021;September;Gross Revenue;LCAMPR.1100;5725,962644
-2021;September;Marketing Costs;LCAMPR.4000;-478,0578105
-2021;September;Operating Expenses;LCAMPR.5000;-1611,403247
-2021;September;Sales Discounts;LCAMPR.1400;-151,9594623
-2021;September;Trade Contributions;LCAMPR.1700;-361,4060804
-2021;October;COGS (excl. Mfg. Ove;LCAMPR.2000;-1330,793687
-2021;October;Distribution Cost;LCAMPR.3000;-250,1460902
-2021;October;Gross Revenue;LCAMPR.1100;7188,431873
-2021;October;Marketing Costs;LCAMPR.4000;-650,7982264
-2021;October;Operating Expenses;LCAMPR.5000;-1704,659041
-2021;October;Sales Discounts;LCAMPR.1400;-196,6590701
-2021;October;Trade Contributions;LCAMPR.1700;-463,2659019
-2021;November;COGS (excl. Mfg. Ove;LCAMPR.2000;-1285,838913
-2021;November;Distribution Cost;LCAMPR.3000;-267,1048087
-2021;November;Gross Revenue;LCAMPR.1100;7278,227439
-2021;November;Marketing Costs;LCAMPR.4000;-971,670359
-2021;November;Operating Expenses;LCAMPR.5000;-1796,847194
-2021;November;Sales Discounts;LCAMPR.1400;-201,465997
-2021;November;Trade Contributions;LCAMPR.1700;-509,8245457
-2021;December;COGS (excl. Mfg. Ove;LCAMPR.2000;-946,2086979
-2021;December;Distribution Cost;LCAMPR.3000;-270,5512206
-2021;December;Gross Revenue;LCAMPR.1100;5451,848004
-2021;December;Marketing Costs;LCAMPR.4000;-1037,644456
-2021;December;Operating Expenses;LCAMPR.5000;-2916,680258
-2021;December;Sales Discounts;LCAMPR.1400;-186,2886165
-2021;December;Trade Contributions;LCAMPR.1700;-541,737557
+Calendar_Year;Calendar_Month;Account_Text;Account_Key;Amount
+2021;January;COGS (excl. Mfg. Ove;2000;-877,92
+2021;January;Distribution Cost;3000;-177,4
+2021;January;Gross Revenue;1100;5495,24
+2021;January;Marketing Costs;4000;-133,79
+2021;January;Operating Expenses;5000;-1232,61
+2021;January;Sales Discounts;1400;-161,09
+2021;January;Trade Contributions;1700;-284,82
+2021;February;COGS (excl. Mfg. Ove;2000;-638,34
+2021;February;Distribution Cost;3000;-160,03
+2021;February;Gross Revenue;1100;3904,96
+2021;February;Marketing Costs;4000;-239,38
+2021;February;Operating Expenses;5000;-1358,84
+2021;February;Sales Discounts;1400;-108,7
+2021;February;Trade Contributions;1700;-234,77
+2021;March;COGS (excl. Mfg. Ove;2000;-649,6
+2021;March;Distribution Cost;3000;-177,5
+2021;March;Gross Revenue;1100;4168,97
+2021;March;Marketing Costs;4000;-311,05
+2021;March;Operating Expenses;5000;-1518,56
+2021;March;Sales Discounts;1400;-113,04
+2021;March;Trade Contributions;1700;-230,28
+2021;April;COGS (excl. Mfg. Ove;2000;-496,72
+2021;April;Distribution Cost;3000;-157,92
+2021;April;Gross Revenue;1100;3572,64
+2021;April;Marketing Costs;4000;-259,85
+2021;April;Operating Expenses;5000;-1486,67
+2021;April;Sales Discounts;1400;-118,21
+2021;April;Trade Contributions;1700;-194,15
+2021;May;COGS (excl. Mfg. Ove;2000;-514,6
+2021;May;Distribution Cost;3000;-209,43
+2021;May;Gross Revenue;1100;4072,66
+2021;May;Marketing Costs;4000;-293,51
+2021;May;Operating Expenses;5000;-1539,7
+2021;May;Sales Discounts;1400;-137,23
+2021;May;Trade Contributions;1700;-260,44
+2021;June;COGS (excl. Mfg. Ove;2000;-437,3
+2021;June;Distribution Cost;3000;-173,73
+2021;June;Gross Revenue;1100;3556,18
+2021;June;Marketing Costs;4000;-318,41
+2021;June;Operating Expenses;5000;-1313,65
+2021;June;Sales Discounts;1400;-107,4
+2021;June;Trade Contributions;1700;-200,67
+2021;July;COGS (excl. Mfg. Ove;2000;-751,42
+2021;July;Distribution Cost;3000;-145,63
+2021;July;Gross Revenue;1100;4332,52
+2021;July;Marketing Costs;4000;-308,61
+2021;July;Operating Expenses;5000;-1478,4
+2021;July;Sales Discounts;1400;-109,48
+2021;July;Trade Contributions;1700;-244,82
+2021;August;COGS (excl. Mfg. Ove;2000;-791,4117278
+2021;August;Distribution Cost;3000;-196,2057915
+2021;August;Gross Revenue;1100;4814,571147
+2021;August;Marketing Costs;4000;-390,2469432
+2021;August;Operating Expenses;5000;-1610,665789
+2021;August;Sales Discounts;1400;-139,8777656
+2021;August;Trade Contributions;1700;-236,6656864
+2021;September;COGS (excl. Mfg. Ove;2000;-943,6337144
+2021;September;Distribution Cost;3000;-206,2478579
+2021;September;Gross Revenue;1100;5725,962644
+2021;September;Marketing Costs;4000;-478,0578105
+2021;September;Operating Expenses;5000;-1611,403247
+2021;September;Sales Discounts;1400;-151,9594623
+2021;September;Trade Contributions;1700;-361,4060804
+2021;October;COGS (excl. Mfg. Ove;2000;-1330,793687
+2021;October;Distribution Cost;3000;-250,1460902
+2021;October;Gross Revenue;1100;7188,431873
+2021;October;Marketing Costs;4000;-650,7982264
+2021;October;Operating Expenses;5000;-1704,659041
+2021;October;Sales Discounts;1400;-196,6590701
+2021;October;Trade Contributions;1700;-463,2659019
+2021;November;COGS (excl. Mfg. Ove;2000;-1285,838913
+2021;November;Distribution Cost;3000;-267,1048087
+2021;November;Gross Revenue;1100;7278,227439
+2021;November;Marketing Costs;4000;-971,670359
+2021;November;Operating Expenses;5000;-1796,847194
+2021;November;Sales Discounts;1400;-201,465997
+2021;November;Trade Contributions;1700;-509,8245457
+2021;December;COGS (excl. Mfg. Ove;2000;-946,2086979
+2021;December;Distribution Cost;3000;-270,5512206
+2021;December;Gross Revenue;1100;5451,848004
+2021;December;Marketing Costs;4000;-1037,644456
+2021;December;Operating Expenses;5000;-2916,680258
+2021;December;Sales Discounts;1400;-186,2886165
+2021;December;Trade Contributions;1700;-541,737557
